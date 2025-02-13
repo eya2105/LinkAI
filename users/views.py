@@ -39,7 +39,7 @@ def user_login(request):  # Renamed to avoid conflict with the import
             messages.error(request, 'Invalid username or password.')
             return render(request, 'users/login.html')
 
-
+@login_required
 def logout_view(request):
     auth_logout(request)  
     return redirect('register')   # Adjust 'register' to your desired redirect page
