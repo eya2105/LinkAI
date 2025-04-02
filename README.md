@@ -1,2 +1,2 @@
 # LinkAI
-LinkAI is an AI-powered professional networking platform built with Django, integrating resume parsing, skill-based job matching, and career enhancement suggestions. It analyzes resumes, assigns relevance scores, and recommends courses to improve job prospects. Users can share posts, interact, and apply for jobs, creating a dynamic professional community driven by AI insights. 
+LinkAI is an AI-powered professional networking platform built with Django, designed to help users enhance their job prospects. It features a resume parser that matches skills to job postings, provides career enhancement suggestions, and allows users to share posts, interact, and apply for jobs. The project is ongoing, with continuous improvements and new features being added.
